@@ -30,7 +30,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/.git
+    git clone https://github.com/veganxjihad/web_shop_project.git
     ```
 
 2. Перейдите в директорию проекта:
